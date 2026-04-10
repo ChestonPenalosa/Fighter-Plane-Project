@@ -13,6 +13,7 @@ public class Enemy : MonoBehaviour
     // Update is called once per frame
     private void OnTriggerEnter2D(Collider2D whatDidIHit)
     {
+        //Code for if enemy hits player/bullets
         if(whatDidIHit.tag == "Player")
         {
             whatDidIHit.GetComponent<PlayerController>().LoseALife();
