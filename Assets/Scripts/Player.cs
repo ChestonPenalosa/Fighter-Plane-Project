@@ -17,7 +17,7 @@ public class Player : MonoBehaviour
     private float horizontalScreenLimit = 9.5f;
     //private float verticalScreenLimit = 6.5f;
     private float topScreenLimit = 0.5f;
-    private float bottomScreenLimit = -5.5f;
+    private float bottomScreenLimit = -4.5f;
 
     void Start()
     {
