@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Weapon
+  - PowerUp
+  - Coin
+  - Life
   layers:
   - Default
   - TransparentFX

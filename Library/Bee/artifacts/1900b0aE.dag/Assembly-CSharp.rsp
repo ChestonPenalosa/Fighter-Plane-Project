@@ -461,13 +461,17 @@
 "Assets/Scripts/Bullet.cs"
 "Assets/Scripts/Bullet2.cs"
 "Assets/Scripts/Cloud.cs"
+"Assets/Scripts/Coin.cs"
 "Assets/Scripts/Enemy.cs"
 "Assets/Scripts/Enemy2.cs"
 "Assets/Scripts/Enemy3.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/Glider.cs"
+"Assets/Scripts/Life.cs"
+"Assets/Scripts/MainMenu.cs"
 "Assets/Scripts/Player.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/SelfDestroyer.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 /deterministic
